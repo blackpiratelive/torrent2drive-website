@@ -1,0 +1,35 @@
+
+h1 {
+    font-family: serif;
+    font-size: 5rem;
+}
+.container {
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+}
+body {
+    font-size: 1.5rem;
+}
+li {
+    list-style: none;
+}
+.green {
+    color: rgb(17, 130, 17);
+}
+a {
+    text-decoration: none;
+    color: rgb(55, 149, 232);
+}
+a:hover {
+    text-decoration: underline;
+}
+h2 {
+    font-family: sans-serif;
+}
+.red {
+    color: rgb(232, 77, 21);
+}
+.footer {
+    margin-top: 2em;
+}
